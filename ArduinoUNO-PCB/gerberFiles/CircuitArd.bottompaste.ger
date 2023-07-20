@@ -1,0 +1,21 @@
+G04 EAGLE Gerber X2 export*
+%TF.Part,Single*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.6.2*%
+%TF.CreationDate,2023-04-01T14:46:51Z*%
+G75*
+%MOIN*%
+%FSLAX36Y36*%
+%LPD*%
+%INBottom Solder Paste*%
+%AMOC8*
+5,1,8,0,0,1.08239X$1,22.5*%
+G01*
+%ADD10R,0.085039X0.055118*%
+
+
+D10*
+X911417Y224409D03*
+X765748Y224409D03*
+M02*
